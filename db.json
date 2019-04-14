@@ -1,0 +1,60 @@
+{
+  "animes": [
+    {
+      "id": 1,
+      "name": "Bakemonogatari",
+      "status": "watched",
+      "genre": "Supernatural",
+      "comments": "Muito bom"
+    },
+    {
+      "id": 2,
+      "name": "Lucky Star! ",
+      "status": "watching",
+      "genre": "Comédia",
+      "comments": "Bom para descontrair"
+    },
+    {
+      "id": 3,
+      "name": "Gurren Lagann",
+      "status": "watched",
+      "genre": "Mecha",
+      "comments": "Row! Row! Fight the power!"
+    },
+    {
+      "id": 4,
+      "name": "Steins;Gate",
+      "status": "toWatch",
+      "genre": "Ficção Científica",
+      "comments": "Galera fala bem"
+    },
+    {
+      "name": "teste",
+      "status": "watched",
+      "genre": "Comédia",
+      "comments": "teste",
+      "id": 5
+    },
+    {
+      "name": "teste2",
+      "status": "watched",
+      "genre": "Comédia",
+      "comments": "",
+      "id": 6
+    },
+    {
+      "name": "teste3",
+      "status": "watched",
+      "genre": "Comédia",
+      "comments": "",
+      "id": 7
+    }
+  ],
+  "genres": [
+    "Comédia",
+    "Drama",
+    "Ação",
+    "Supernatural",
+    "Ficção Científica"
+  ]
+}
